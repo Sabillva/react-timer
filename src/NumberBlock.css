@@ -1,0 +1,8 @@
+.number-block {
+  font-size: 80px;
+  font-weight: bold;
+  color: #000;
+  margin: 10px;
+  text-align: center;
+  min-width: 100px;
+}
